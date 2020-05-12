@@ -16,7 +16,7 @@ public class Regras {
                 System.out.println("*************************************************************");
                 System.out.println("**********************COMO FUNCIONA:*************************");
                 System.out.println("O código irá realizar um cálculo para determinar qual drone");
-                System.out.println("alcance seu objetivo primeiro.");
+                System.out.println("alcança seu objetivo primeiro.");
                 System.out.println("*************************************************************");
                 System.out.println("1º Você deve definir a coordenada inicial de cada drone (X Y Z)");
                 System.out.println("2º A Velocidade que cada drone alcança em Km/h");
